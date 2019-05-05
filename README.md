@@ -13,12 +13,5 @@ Installs the dependencies and node modules.
 Runs the app in the development mode.<br>
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-<img src="/public/images/bird_wing_down.png"/> 
-<img src="/public/images/bird_wing_up.png"/> 
-<img src="/public/images/bird_wing_down.png"/> 
-<img src="/public/images/bird_wing_up.png"/> 
-<img src="/public/images/bird_wing_down.png"/> 
-<img src="/public/images/bird_wing_up.png"/> 
-<img src="/public/images/bird_wing_down.png"/> 
-<img src="/public/images/bird_wing_up.png"/> 
+<img src="/public/images/bird_wing_down.png"/><img src="/public/images/bird_wing_up.png"/><img src="/public/images/bird_wing_down.png"/><img src="/public/images/bird_wing_up.png"/><img src="/public/images/bird_wing_down.png"/><img src="/public/images/bird_wing_up.png"/>
 
