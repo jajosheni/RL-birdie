@@ -43,6 +43,10 @@ class App extends Component {
 
   componentDidMount() {
     this.interval = setInterval(() => this.update(), 15);
+    this.interval = setInterval(() => {
+      if(Train(this.state.velocity, this.state.diffX, this.state.diffY, this.state.birdHeight, this.state.score, this.state.isHit))
+        this.moveUp();
+    }, 15);
   }
 
   update() {
