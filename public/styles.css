@@ -28,13 +28,16 @@
     text-align: center;
 }
 
-.pipes{
+.blocks{
+    position: absolute;
+    top: 0;
     background: url("/images/pipe.png") no-repeat;
     background-size: cover;
     transform: rotate(180deg);
 }
 
-.pipesLower{
+.blocksLower{
+    position: absolute;
     background: url("/images/pipe.png") no-repeat;
     background-size: cover;
 }
