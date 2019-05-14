@@ -15,3 +15,8 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 <img src="/public/images/bird_wing_down.png"/><img src="/public/images/bird_wing_up.png"/><img src="/public/images/bird_wing_down.png"/><img src="/public/images/bird_wing_up.png"/><img src="/public/images/bird_wing_down.png"/><img src="/public/images/bird_wing_up.png"/>
 
+NOTE:
+```
+ Reinforcement Learning part is still undone,
+ bird will do just random jumps for the moment.
+```
